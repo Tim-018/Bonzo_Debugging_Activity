@@ -9,5 +9,5 @@
 - Addded the opening curly brace "{" in body section.
 - Corrected selector spelling "heade" to "header".
 - Addded the closing curly brace "}" in main section.
-- Added the semi colon ";" in footer section.
-- Added the colon ":" in footer section.
+- Added the semi colon ";" on bottom selecter in footer section.
+- Added the colon ":" in on text-align selector in footer section.

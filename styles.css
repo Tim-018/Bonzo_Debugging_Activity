@@ -1,5 +1,5 @@
 /* styles.css */
-body {
+body {  /* Added opening brace { */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -7,7 +7,7 @@ body {
     overflow-x: hidden;
 }
 
-header {
+header {  /* Corrected selector from 'heade' to 'header' */
     background-color: #333;
     color: #fff;
     padding: 20px;
@@ -30,17 +30,17 @@ nav ul li a {
     padding: 10px;
 }
 
-main section {
+main section { 
     margin: 20px;
-}
+} /* Added closing brace } */
 
 footer {
     position: absolute;
-    bottom: 0;
+    bottom: 0; /* Added missing semi colon */
     right: 0;
     width: 100vw;
     background-color: #333;
     color: #fff;
     padding: 10px;
-    text-align: center;
+    text-align: center; /* Added missing colon */
 }
